@@ -1,0 +1,23 @@
+{
+    "make": "#make",
+    "enginePerformance": "#engineperformance",
+    "dateOfManufacture": "#dateofmanufacture",
+    "numberOfSeats": "#numberofseats",
+    "fuelType": "#fuel",
+    "listPrice": "#listprice",
+    "licensePlateNumber": "#licenseplatenumber",
+    "annualMileage": "#annualmileage",
+    "nextButton": "#nextenterinsurantdata",
+
+    
+    "selectMake":"BMW",
+    "typeEnginePerformance":"1600",
+    "typeDateOfManufacture":"11/25/1987",
+    "selectNumberOfSeats":"5",
+    "selectFuelType":"Diesel",
+    "typeListPrice":"90000",
+    "typeLicensePlateNumber":"AVO1234",
+    "typeAnnualMileage":"85000"
+
+}
+  

@@ -1,0 +1,13 @@
+{
+    "email":"#email",
+    "username":"#username",
+    "password":"#password",
+    "confirmPassword":"#confirmpassword",
+    "sendButton":"#sendemail",
+    "okButton": ".confirm",
+
+    "typeEmail":"julie.a.evangelista@accenture.com",
+    "typeUsername":"makiGuru24",
+    "typePassword":"makiGuru@1234",
+    "typeConfirmPassword":"makiGuru@1234"
+}

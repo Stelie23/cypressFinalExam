@@ -1,0 +1,8 @@
+{
+    "automobileInsuranceSelected": "#selectedinsurance",
+    "enterVehicleData": "#entervehicledata",
+    "enterInsurantData": "#enterinsurantdata",
+    "enterProductData": "#enterproductdata",
+    "selectPriceOption": "#selectpriceoption",
+    "sendQuote":"#sendquote"
+}

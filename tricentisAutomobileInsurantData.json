@@ -1,0 +1,26 @@
+{
+    "firstName":"#firstname",
+    "lastName":"#lastname",
+    "dateOfBirth":"#birthdate",
+    "gender":":nth-child(4) > .group > :nth-child(2)",
+    "streetAddress":"#streetaddress",
+    "country":"#country",
+    "zipCode":"#zipcode",
+    "city":"#city",
+    "occupation":"#occupation",
+    "hobbies":"section[style='display: block;'] > .idealforms-field-checkbox > .group > :nth-child(1)",
+    "nextButton":"#nextenterproductdata",
+
+    "typeFirstName":"JulieAnn",
+    "typeLastName":"Evangelista",
+    "typeDateOfBirth":"07/23/1991",
+    "selectGender":"Female",
+    "typeStreetAddress":"123 St. Test",
+    "selectCountry":"Philippines",
+    "typeZipCode":"3023",
+    "typeCity":"Manila",
+    "selectOccupation":"Employee",
+    "selectHobbies":"Speeding",
+    "nextButton2": "#nextenterproductdata"
+}
+  

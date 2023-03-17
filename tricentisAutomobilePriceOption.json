@@ -1,0 +1,9 @@
+{
+    "selectPriceTable": "#priceTable > thead > tr > :nth-child(5)",
+    "selectOption":"tr > .group > :nth-child(4)",
+    "nextButton":"#nextsendquote",
+
+    "selectPriceOption":"#Ultimate",
+    "nextButton4":"#nextsendquote"
+}
+  

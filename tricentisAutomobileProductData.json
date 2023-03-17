@@ -1,0 +1,18 @@
+{
+    "startDate":"#startdate",
+    "insuranceSum":"#insurancesum",
+    "meritRating":"#meritrating",
+    "damageInsurance":"#damageinsurance",
+    "optionalProducts":"section[style='display: block;'] > .idealforms-field-checkbox > .group > :nth-child(2)",
+    "courtesyCar":"#courtesycar",
+    "nextButton":"#nextselectpriceoption",
+
+    "typeStartDate":"06/18/2023",
+    "selectInsuranceSum":"5.000.000,00",
+    "selectMeritRating":"Bonus 1",
+    "selectDamageInsurance":"Full Coverage",
+    "selectOptionalProducts":"Legal Defense Insurance",
+    "typeCourtesyCar":"Yes",
+    "nextButton3":"#nextselectpriceoption"
+}
+  
